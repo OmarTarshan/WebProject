@@ -1,0 +1,68 @@
+.Cyb_body {
+    width: 500px;
+    margin-right: 300px;
+}
+.Cyb_Logo {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+.Cyb_OverView {
+    background-color: rgb(148, 206, 182);
+    margin: 20px;
+    padding: 20px;
+    border-right: 3px;
+    border-left: 1px;
+    border-bottom: 3px;
+    border-top: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.Cyb_Tools {
+    margin: 20px;
+    padding: 20px;
+    border-right: 3px;
+    border-left: 1px;
+    border-bottom: 3px;
+    border-top: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.Cyb_Tools span {
+    border: 1px black solid;
+    margin-top: 3px;
+    margin-right: 6px;
+    padding: 3px;
+    background-color: rgb(205, 202, 202);
+}
+.Cyb_Learn {
+    border-right: 3px;
+    border-left: 1px;
+    border-bottom: 3px;
+    border-top: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 20px;
+}
+.Cyb_Learn li {
+    margin-top: 10px;
+}
+.Cyb_Learn h2 {
+    margin-right: 20px;
+}
+.Cyb_HowToLearn {
+    border-right: 3px;
+    border-left: 1px;
+    border-bottom: 3px;
+    border-top: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 20px;
+}
+.Cyb_HowToLearn a {
+    margin-top: 10px;
+    text-decoration: none;
+}
+.Cyb_HowToLearn li {
+    margin-top: 10px;
+}
