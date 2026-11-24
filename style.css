@@ -12,7 +12,8 @@
    }
 
     body {
-      font-family: 'Segoe UI', Tahoma, sans-serif;
+      margin: 0;
+      font-family: 'Cairo', sans-serif;
       background-color: #fafafa;
       color: #111;
       line-height: 1.7;
