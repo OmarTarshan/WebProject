@@ -1,13 +1,20 @@
-.Cyb_body {
-    width: 500px;
-    margin-right: 300px;
+@font-face {
+  font-family: 'Cairo';
+  src: url('Font/Cairo-VariableFont_slnt,wght.ttf') format('truetype');
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: swap;
 }
-.Cyb_Logo {
-    width: 40px;
-    height: 40px;
+.cyb_body {
+    width: 800px;
+    margin-right: 200px;
+}
+.cyb_Logo {
+    width: 70px;
+    height: 70px;
     margin: 20px;
 }
-.Cyb_OverView {
+.cyb_OverView {
     background-color: rgb(148, 206, 182);
     margin: 20px;
     padding: 20px;
@@ -17,8 +24,14 @@
     border-top: 1px;
     border-color: black;
     border-style: solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cairo';
 }
-.Cyb_Tools {
+.cyb_OverView h2 {
+    color: rgb(67, 148, 218);
+}
+.cyb_Tools {
     margin: 20px;
     padding: 20px;
     border-right: 3px;
@@ -27,15 +40,19 @@
     border-top: 1px;
     border-color: black;
     border-style: solid;
+    border-radius: 10px;
+    font-family: 'Cairo';
 }
-.Cyb_Tools span {
+.cyb_Tools span {
     border: 1px black solid;
     margin-top: 3px;
     margin-right: 6px;
     padding: 3px;
     background-color: rgb(205, 202, 202);
+    border-radius: 10px;
+    font-size: 20px;
 }
-.Cyb_Learn {
+.cyb_Learn {
     border-right: 3px;
     border-left: 1px;
     border-bottom: 3px;
@@ -43,14 +60,17 @@
     border-color: black;
     border-style: solid;
     margin: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cairo';
 }
-.Cyb_Learn li {
+.cyb_Learn li {
     margin-top: 10px;
 }
-.Cyb_Learn h2 {
+.cyb_Learn h2 {
     margin-right: 20px;
 }
-.Cyb_HowToLearn {
+.cyb_HowToLearn {
     border-right: 3px;
     border-left: 1px;
     border-bottom: 3px;
@@ -58,11 +78,15 @@
     border-color: black;
     border-style: solid;
     margin: 20px;
+    border-radius: 10px;
+    font-family: 'Cairo';
 }
-.Cyb_HowToLearn a {
+.cyb_HowToLearn a {
     margin-top: 10px;
     text-decoration: none;
+    font-size: 20px;
 }
-.Cyb_HowToLearn li {
+.cyb_HowToLearn li {
     margin-top: 10px;
+    font-size: 20px;
 }
