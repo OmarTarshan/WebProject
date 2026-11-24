@@ -20,6 +20,13 @@ body {
     padding: 20px;
     margin: 20px auto;
 }
+.mobile-Logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
 span{
     display: inline-block;
     border: 2px solid black;
