@@ -1,0 +1,27 @@
+body {
+    font-family: "Cairo", sans-serif;
+}
+.hero{
+background-color: #d1fae5;
+border: 2px solid black;
+border-radius: 20px;
+box-shadow: 6px 6px 0 black;
+width: 700px;
+padding: 30px;
+margin: 20px auto;
+}
+.card{
+border: 2px solid black;
+border-radius: 20px;
+box-shadow: 6px 6px 0 black;
+width: 725px;
+padding: 20px;
+margin: 20px auto;
+}
+span{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(173, 218, 198);
+    margin: 15px;
+    padding: 5px 12px;
+}
