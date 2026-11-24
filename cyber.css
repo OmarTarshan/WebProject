@@ -43,7 +43,6 @@ body {
   transform: translateY(-3px);
 }
 
-/* تنسيق مشترك لكل الأقسام */
 .cyb_OverView, .cyb_Tools, .cyb_Learn, .cyb_HowToLearn {
   background-color: white;
   margin-bottom: 20px;
