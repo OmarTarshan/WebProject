@@ -10,12 +10,13 @@ body {
     padding: 30px;
     margin: 20px auto;
 }
-.card{
+.card {
     display: block;
+    max-width: none;
     border: 2px solid black;
     border-radius: 20px;
     box-shadow: 6px 6px 0 black;
-    width: 725px;
+    width: 700px;
     padding: 20px;
     margin: 20px auto;
 }
