@@ -10,6 +10,18 @@ body {
     padding: 30px;
     margin: 20px auto;
 }
+main {
+  width: 700px;
+  margin: 20px auto;
+}
+.mobile_logo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
 .card {
     display: block;
     max-width: none;
